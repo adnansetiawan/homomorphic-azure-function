@@ -1,0 +1,13 @@
+{
+  "name": "homomorphic",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "paillier-bigint": "^3.4.0",
+    "shamirs-secret-sharing": "^1.0.1"
+  }
+}
